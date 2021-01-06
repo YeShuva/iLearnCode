@@ -1,6 +1,2 @@
 # iLearnCode
-## Hello world!
--------
-
-
-### [HTML Basics](HTML_Basics.md)
+## Project of collecting knowledge base for creating Web Aps
