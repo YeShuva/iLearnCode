@@ -10,7 +10,7 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
-```html
+```HTML
 <h1>Top level heading: Maybe a page title</h1>
 
 <p>A paragraph of text. Some information we would like to communicate to the viewer. This can be as long or short as we would like.</p>
