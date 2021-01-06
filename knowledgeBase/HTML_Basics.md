@@ -21,6 +21,12 @@ alert(s);
   <li>A third item</li>
 </ol>
 ```
+
+~~~css
+#header{
+ color: #333; 
+}
+~~~
  
 ```
 No language indicated, so no syntax highlighting. 
