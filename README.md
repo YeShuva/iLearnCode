@@ -1,6 +1,6 @@
 # iLearnCode
 
-## Project of collecting [knowledge base](knowledgebase/index.md) for creating Web Aps.
+## Project of collecting knowledge base for creating Web Aps.
 
 ```markup
 <!DOCTYPE html>
