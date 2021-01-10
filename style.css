@@ -1,19 +1,26 @@
 * {
-  padding: 0px;
-  margin: 0px;
-}
-a {
-  text-decoration: none;
-  padding: 1rem;
-}
-
-.siteLogo{
-  font-family: Revalia;
-  color: #F36906;
-  margin-left: 1rem;
+    padding: 0px;
+    margin: 0px;
 }
 
 a {
-  display: flex;
-  flex-direction: row;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    color: #352348;
+}
+
+.pageHeader {
+    width: 100vw;
+    background-color: #352348;
+}
+
+.siteLogo {
+    font-family: Revalia;
+    font-size: 1.5rem;
+    color: #F36906;
+    margin: 0.5rem 0 0.5rem 0.5rem;
 }
