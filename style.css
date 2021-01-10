@@ -2,7 +2,18 @@
   padding: 0px;
   margin: 0px;
 }
+a {
+  text-decoration: none;
+  padding: 1rem;
+}
 
-h1  {
-  color:brown;
+.siteLogo{
+  font-family: Revalia;
+  color: #F36906;
+  margin-left: 1rem;
+}
+
+a {
+  display: flex;
+  flex-direction: row;
 }
