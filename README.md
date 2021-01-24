@@ -1,3 +1,4 @@
 # iLearnCode
 
-## Project of collecting <a href="https://iLearnCode.info" target="_blank">knowledge base</a> for creating Web Aps
+## Project of collecting [knowledge base](https://iLearnCode.info) for creating Web Aps
+
